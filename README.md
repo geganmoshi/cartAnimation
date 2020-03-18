@@ -9,4 +9,4 @@
 ### 3 抛物线动画
 ### 4 购物车图标摇晃
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/geganmoshi/cartAnimation/blob/master/pic/20200318_145202.gif)
